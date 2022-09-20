@@ -1,0 +1,29 @@
+footer{
+ margin-top: 200px;
+   display: flex;
+   
+}
+.footer_wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #000;
+}
+.footer_ul{
+    display: flex;
+    width: 20%;
+    justify-content: space-around;
+}
+.footer_li{
+    font-family: 'Barlow';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+letter-spacing: 0.923077px;
+text-transform: uppercase;
+
+color: #83888F;
+cursor: pointer;
+
+}
